@@ -1,5 +1,5 @@
-netid: ady
-ghid: dyashton
+netid: mpatriki
+ghid: mpatrikios
 
-My name is Ashton. I am a junior studying computer science interested in both software development and machine learning. 
-I want to develop my skills in UI/UX so that I can design my own elegant and intuitive designs. 
+
+I'm Mia Patrikios and I am a studying computer science with a minor in machine learning. I'm interested in anything related to the environment, but am also interested in visualizing big data. 
